@@ -12,7 +12,7 @@ func main() {
     fmt.Println("8 is divisible by 4")
   }
 
-  if num := 9; n < 0 {
+  if num := 9; num < 0 {
     fmt.Println(num, "is negative")
   } else if num < 10 {
     fmt.Println(num, "has 1 digit")
